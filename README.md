@@ -25,3 +25,5 @@ Catatan belajar mengelola VPS untuk menjalankan node airdrop.
 ---
 
 "Hi there! I am a tech enthusiast from Indonesia. Currently focused on: 🖥️ Learning Linux VPS Management. 🌐 Exploring Decentralized Networks (Nubit & Titan). 🛠️ Experimenting with node architecture and blockchain interoperability."
+
+Troubleshooting PayPal registration issues. Exploring alternative payment methods including direct Visa Debit via Bank Jago or Crypto-friendly VPS providers.
