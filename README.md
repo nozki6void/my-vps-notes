@@ -2,28 +2,33 @@
 
 Catatan belajar mengelola VPS untuk menjalankan node airdrop.
 
-## 🚀 Current Focus
-- **Target Nodes:** Nubit (Light Node) & Titan Network.
+## 🚀 Current Focus (Early Stage Projects)
+- **Target Nodes:** Mina Protocol (Testworld 2.0) & Tempo Network.
 - **Infrastructure:** Preparing Contabo VPS (4 vCPU / 8GB RAM).
 - **Security Goal:** SSH Key authentication & UFW configuration.
 
 ## 📅 Activity Log
 
-### April 9, 2026
-- Researching beginner-friendly nodes: **Nubit** and **Titan Network**.
-- Analyzing resource allocation for multi-node deployment on an 8GB RAM VPS.
-- Exploring Bitcoin Data Availability (DA) ecosystem through Nubit.
+### April 10, 2026 - Strategy Pivot
+- Decided to pivot from Nubit/Titan due to late-stage cycle. 
+- Researching **Mina Protocol** and **Tempo Network** as early-stage opportunities.
+- Finalizing payment gateway troubleshooting (Bank Jago/PayPal).
+
+---
+
+## 🔬 Research & Observation (Archived)
+*Bagian ini berisi proyek yang dipantau namun tidak menjadi prioritas utama saat ini.*
+
+- **Nubit (Light Node):** Late-stage incentivized testnet. Resource observed.
+- **Titan Network:** DePIN sharing node. Monitoring for future seasons.
 
 ---
 
 ## 🛠 Perintah Penting:
-
 - `sudo apt update`: Memperbarui daftar paket.
 - `screen -S node`: Membuat sesi terminal baru agar node tetap jalan.
 - `df -h`: Mengecek sisa penyimpanan disk.
 
 ---
 
-"Hi there! I am a tech enthusiast from Indonesia. Currently focused on: 🖥️ Learning Linux VPS Management. 🌐 Exploring Decentralized Networks (Nubit & Titan). 🛠️ Experimenting with node architecture and blockchain interoperability."
-
-Troubleshooting PayPal registration issues. Exploring alternative payment methods including direct Visa Debit via Bank Jago or Crypto-friendly VPS providers.
+"Hi there! I am a tech enthusiast from Indonesia. Currently focused on: 🖥️ Learning Linux VPS Management. 🌐 Exploring Early-Stage Decentralized Networks. 🛠️ Documenting node deployment journey."
