@@ -8,7 +8,14 @@ Catatan belajar mengelola VPS untuk menjalankan node airdrop.
 - **Security Goal:** SSH Key authentication & UFW configuration.
 
 ## 📅 Activity Log
-
+### April 15, 2026 - Icarus Finance Engagement
+- Completed on-chain tasks: Swapping tokens and understanding the Locking & Voting mechanism.
+- Obtained veIRS NFT via locking to participate in governance.
+- *Status:* High-level user interaction completed; waiting for Node/Validator technical release.
+### April 15, 2026 - Icarus Finance Testnet Activity
+- ✅ Applied for Founding Ascenders program.
+- ✅ Executed on-chain interactions: Swaps and Liquidity Provision on Icarus Testnet.
+- [ ] Monitoring for Node/Validator technical documentation
 ### April 15, 2026 - Early Access Scouting
 - ✅ **Nava Labs:** Successfully joined the waitlist for the Autonomous Agents infrastructure. Monitoring for "Agent Node" requirements. (Backers: Polychain, Polychain Capital, Hack VC).
 - ✅ **Icarus Finance:** Application complete for early access. Linked wallet address and monitoring for the "Founding Ascenders" program.
