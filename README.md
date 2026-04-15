@@ -8,6 +8,10 @@ Catatan belajar mengelola VPS untuk menjalankan node airdrop.
 - **Security Goal:** SSH Key authentication & UFW configuration.
 
 ## 📅 Activity Log
+### April 15, 2026 - Nava Labs Technical Deep Dive
+- ✅ Followed **navalabs-dev** organization and starred active repositories (SDK & Take-home tests).
+- ✅ Analyzed Nava's product stack: Understanding the **Arbiter Verification** layer and **Execution Escrow SDK**.
+- ✅ Monitoring for the release of "Nava Chain" network layer and decentralized Arbiter node specs.
 ### April 15, 2026 - Icarus Finance Engagement
 - Completed on-chain tasks: Swapping tokens and understanding the Locking & Voting mechanism.
 - Obtained veIRS NFT via locking to participate in governance.
