@@ -8,6 +8,17 @@ Catatan belajar mengelola VPS untuk menjalankan node airdrop.
 - **Security Goal:** SSH Key authentication & UFW configuration.
 
 ## 📅 Activity Log
+### April 16, 2026 - VPS Procurement Update
+- [x] Selected VPS Specs: 4 vCPU, 8 GB RAM, 75 GB NVMe (Optimized for node speed).
+- [!] Issue: Encountered "a.trim is not a function" system error on Contabo during Bank Jago payment integration.
+- [ ] Action Plan: Switch to PayPal as a payment gateway to bypass direct card processing errors.
+
+### April 15, 2026 - Umi Network Research (AI Layer 2)
+- ✅ Analyzed Umi Network docs: A MoveVM-based Layer 2 focused on AI agent payments.
+- ✅ Configured Rabby Wallet for **Umi Devnet** (Chain ID: 42069).
+- ✅ Exploring the "Umi Stack" for future node operator opportunities.
+- *Status:* Participating in Devnet phase; monitoring for public node/testnet announcement.
+
 ### April 15, 2026 - Nava Labs Technical Deep Dive
 - ✅ Followed **navalabs-dev** organization and starred active repositories (SDK & Take-home tests).
 - ✅ Analyzed Nava's product stack: Understanding the **Arbiter Verification** layer and **Execution Escrow SDK**.
