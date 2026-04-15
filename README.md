@@ -9,6 +9,10 @@ Catatan belajar mengelola VPS untuk menjalankan node airdrop.
 
 ## 📅 Activity Log
 
+### April 15, 2026 - Early Access Scouting
+- ✅ **Nava Labs:** Successfully joined the waitlist for the Autonomous Agents infrastructure. Monitoring for "Agent Node" requirements. (Backers: Polychain, Polychain Capital, Hack VC).
+- ✅ **Icarus Finance:** Application complete for early access. Linked wallet address and monitoring for the "Founding Ascenders" program.
+
 ### April 10, 2026 - Strategy Pivot
 - Decided to pivot from Nubit/Titan due to late-stage cycle. 
 - Researching **Mina Protocol** and **Tempo Network** as early-stage opportunities.
