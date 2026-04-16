@@ -8,6 +8,11 @@ Catatan belajar mengelola VPS untuk menjalankan node airdrop.
 - **Security Goal:** SSH Key authentication & UFW configuration.
 
 ## 📅 Activity Log
+### April 16, 2026 - Initial Server Setup
+[x] Login Success: Accessed Contabo VPS via Termius.
+[x] System Maintenance: Performed apt update & upgrade.
+[x] Environment: Installed basic tools (screen, git, curl).
+[ ] Next: Configuring Umi Network Node components.
 ### April 16, 2026 - VPS Procurement Update
 - [x] Selected VPS Specs: 4 vCPU, 8 GB RAM, 75 GB NVMe (Optimized for node speed).
 - [!] Issue: Encountered "a.trim is not a function" system error on Contabo during Bank Jago payment integration.
