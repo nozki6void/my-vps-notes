@@ -12,6 +12,12 @@ Catatan belajar mengelola VPS untuk menjalankan node airdrop.
 - **Security Goal:** SSH Key authentication & UFW configuration.
 
 ## 📅 Activity Log
+### April 16, 2026 - Umi Network Deployment Success
+- [x] Installed Aptos CLI v9.1.0 on Ubuntu 24.04.
+- [x] Created dedicated node wallet: 0x548aba46...
+- [x] Successfully compiled and published 'my_first_contract' to Umi Devnet.
+- [x] Transaction Hash: 0x8eb119e3a28826101cbd7f8fbf935a37c1fc6c5d17d2aba318e9f89e6387?network=devnet
+
 ### April 16, 2026 - Initial Server Setup
 [x] Login Success: Accessed Contabo VPS via Termius.
 [x] System Maintenance: Performed apt update & upgrade.
