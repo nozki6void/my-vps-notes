@@ -7,7 +7,6 @@ Catatan belajar mengelola VPS untuk menjalankan node airdrop.
 - **Infrastructure:** Contabo VPS (4 vCPU / 8GB RAM / Ubuntu 24.04).
 - **Security Goal:** SSH Key authentication, UFW configuration, & Wallet Isolation.
 
-- **Target Nodes:** Mina Protocol (Testworld 2.0) & Tempo Network.
 - **Infrastructure:** Preparing Contabo VPS (4 vCPU / 8GB RAM).
 - **Security Goal:** SSH Key authentication & UFW configuration.
 
