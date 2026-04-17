@@ -3,6 +3,13 @@
 Catatan belajar mengelola VPS untuk menjalankan node airdrop.
 
 ## 🚀 Current Focus (Early Stage Projects)
+
+Project: DAC Quantum Chain (Testnet)
+Role: Light Node Operator
+Objective: Menjaga stabilitas infrastruktur node pada fase Testnet dan mengumpulkan interaksi on-chain untuk potensi incentivized reward.
+Infrastructure: VPS Ubuntu (Running via Termius).
+Status: Syncing Block / Active.
+
 - **Target Nodes:** Umi Network (MoveVM), Nava Labs, & Icarus Finance.
 - **Infrastructure:** Contabo VPS (4 vCPU / 8GB RAM / Ubuntu 24.04).
 - **Security Goal:** SSH Key authentication, UFW configuration, & Wallet Isolation.
@@ -11,6 +18,18 @@ Catatan belajar mengelola VPS untuk menjalankan node airdrop.
 - **Security Goal:** SSH Key authentication & UFW configuration.
 
 ## 📅 Activity Log
+
+17 April 2026 - Setup & Initial Running
+Server Preparation: Melakukan update sistem (apt update) dan instalasi alat pendukung (wget, curl, screen).
+Binary Installation: Berhasil mengunduh binary node DAC versi Linux AMD64 dari repositori resmi.
+Account Creation: * Membuat wallet baru di dalam direktori node.
+Berhasil mengamankan Public Address: 0x0805930f9cde3140c330c7bb8e9e696955df7f73.
+Security & Backup:
+Berhasil melakukan backup Keystore File (format JSON) secara manual.
+Mencatat password enkripsi wallet secara luring (offline).
+Node Execution: * Menjalankan node menggunakan perintah ./dacnode --testnet di dalam sesi screen agar tetap berjalan 24/7 di background.
+Status saat ini: Sedang mengunduh header blok (Imported new chain segment).
+
 ### April 16, 2026 - Umi Network Deployment Success
 - [x] Installed Aptos CLI v9.1.0 on Ubuntu 24.04.
 - [x] Created dedicated node wallet: 0x548aba46...
