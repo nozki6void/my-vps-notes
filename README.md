@@ -4,7 +4,11 @@ Catatan belajar mengelola VPS untuk menjalankan node airdrop.
 
 ## 🚀 Current Focus (Early Stage Projects)
 
-
+-Project: DAC Quantum Chain (Testnet)
+-Role: Light Node Operator
+-Objective: Menjaga stabilitas infrastruktur node pada fase Testnet dan -mengumpulkan interaksi on-chain untuk potensi incentivized reward.
+-Infrastructure: VPS Ubuntu (Running via Termius).
+-Status: Syncing Block / Active.
 
 - **Target Nodes:** Umi Network (MoveVM), Nava Labs, & Icarus Finance.
 - **Infrastructure:** Contabo VPS (4 vCPU / 8GB RAM / Ubuntu 24.04).
