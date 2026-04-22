@@ -12,7 +12,7 @@ Catatan belajar mengelola VPS untuk menjalankan node airdrop.
 
 - **Target Nodes:** Umi Network (MoveVM), Nava Labs, & Icarus Finance.
 - **Infrastructure:** Contabo VPS (4 vCPU / 8GB RAM / Ubuntu 24.04).
-- **Security Goal:** SSH Key authentication, UFW configuration, & Wallet Isolation.
+- **Security Goal:** SSH Key authentication, UFW configuration, & Wallet  Isolation.
 
 - **Infrastructure:** Preparing Contabo VPS (4 vCPU / 8GB RAM).
 - **Security Goal:** SSH Key authentication & UFW configuration.
